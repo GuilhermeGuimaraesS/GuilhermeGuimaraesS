@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gu1lherme_gs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gu1lherme_gs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/guilherme dos santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme dos santos" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/guilherme-dos-santos-1851a2261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme dos santos" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19824346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19824346" height="30" width="40" /></a>
 <a href="https://instagram.com/guilherme.gs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guilherme.gs_" height="30" width="40" /></a>
 </p>
