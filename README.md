@@ -11,6 +11,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeguimaraess&show_icons=true&theme=onedark&title_color=0080ff&text_color=ffffff&locale=en&layout=compact" alt="guilhermeguimaraess" /></p>
+<p><img align="left" src="https://github-readme-stats-beryl-omega-93.vercel.app/api/top-langs?username=guilhermeguimaraess&show_icons=true&theme=onedark&title_color=0080ff&text_color=ffffff&locale=en&layout=compact" alt="guilhermeguimaraess" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermeguimaraess&show_icons=true&theme=onedark&title_color=0080ff&text_color=ffffff&hide_border=true&locale=en" alt="guilhermeguimaraess" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-beryl-omega-93.vercel.app/api?username=guilhermeguimaraess&show_icons=true&theme=onedark&title_color=0080ff&text_color=ffffff&hide_border=true&locale=en" alt="guilhermeguimaraess" /></p>
